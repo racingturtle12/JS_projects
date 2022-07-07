@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    background: #1f2937;
+    position: center;
+}
+
+#heading0 {
+color: #FFFFFF;
+font-family: 'Karla';
+font-style: normal;
+margin-bottom: -30px;
+}
+#heading1{
+color: #4ADF86;
+font-family: 'Karla';
+font-style: normal;
+margin-bottom: -10px;
+
+}
+#suptext{
+    color: #D5D4D8;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 20px;
+    margin-bottom: 35px;
+
+}
+#passgen{
+font-family: 'Inter';
+color: #FFFFFF;
+background-color: #4ADF86;
+width: 150px;
+height: 50px;
+border-radius: 15px ;
+
+}
+/* #line17{
+    color: #D5D4D8;;
+    border: 5px;
+    width: 400px;
+} */
+
+hr{
+    height: 2px;
+    color: gray;
+    background-color: gray;
+    margin-bottom: 30px;
+}
+#pass1{
+width: 211px;
+height: 39px;
+background-color: #273549 ;
+border-radius: 10px;
+margin-bottom: 50px;
+color: #4ADF86;
+}
+#pass2{
+    width: 211px;
+    height: 39px;
+    background-color: #273549 ;
+    border-radius: 10px;
+    color: #4ADF86;
+    
+    }
