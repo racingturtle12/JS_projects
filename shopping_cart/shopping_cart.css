@@ -1,0 +1,78 @@
+#title-main{
+    color: whitesmoke;
+    float: left;
+    padding-left: 25px;
+
+}
+h2{
+    color: whitesmoke;
+    float: center;
+  padding-right: 250px;
+}
+
+
+#main-shop{
+border-radius: 8px;
+float: left;
+
+}
+
+#removeitem {
+ color: red;
+float: left;
+padding-left: 1000px
+    
+}
+ 
+img{
+    border-radius: 30px;
+    height: 200px;
+    width: 200px; 
+}
+
+
+#shoe-pics{
+display:list-item;
+padding: 50px;
+margin-bottom: 10px;
+
+}
+
+span{
+    color: whitesmoke;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+
+body{
+    background-color: black;
+    font-family: "Audiowide", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+button{
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+}
+div{
+    float: left;
+    padding: 10px;
+  
+}
+div #final_prices{
+    float: right;
+    margin-left: 300px;
+    margin-top: -1000px;
+}
+h3{
+    color: whitesmoke;
+    font-size:x-large;
+    padding-bottom: 315px;
+    padding-top: 10px;
+}
+
+#fTot{
+    font-weight: bold;
+    font-size: xx-large;
+}

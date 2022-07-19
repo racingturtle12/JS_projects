@@ -1,0 +1,84 @@
+<html>
+    <head>
+        
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Audiowide">
+        <link rel= "stylesheet" href="shopping_cart.css">
+        <title> Sneaker shopping cart</title>
+    </head>
+    <body>
+<div id="main-shop">
+    <h1 id ="title-main"> My Shopping Cart</h1>
+<!--     <h2 id="removeitem" onlclick="get_rid_of()" >Remove All Items</h2> -->
+
+    <br>
+    <br>
+<div id="shoe-pics">
+    <span> Jordan 1</span>
+    <br>
+    <span> Colorway: Chicago</span>
+    <br>
+    <div><img src="Jordan1(chicago).png" alt= "Jordan 1 Chicago (Red/White)"></div>
+    <br>
+    <button id="dec-btn" onclick="decrease()" > - </button>
+    <span id="amount">0</span>
+    <button id="inc-btn" onclick="increase()"> + </button>
+    <br>
+    <br>
+    <span> Yeezy Foam Runner</span>
+    <br>
+    <span> Colorway: Stone Sage </span>
+    <br>
+    <div><img src="yeezy_foam_runner (stone sage).png" alt= "Yeezy Foam Runner Stone Sage (Dark Brown)" > </div>
+    <br>
+    <button id="dec-btn1" onclick="decrease1()"> - </button>
+    <span id="amount1">0</span>
+    <button id="inc-btn1"onclick="increase1()"> + </button>
+    <br>
+    <br>
+    <span> Jordan 3</span>
+    <br>
+    <span> Colorway: A Ma Maniere </span>
+    <br>
+    <div><img src="jordan3(a ma).png" alt= "Jordan 3 A ma maniere (Brown/White)" ></div>
+    <br>
+    <button id="dec-btn"onclick="decrease2()"> - </button>
+    <span id="amount2">0</span>
+    <button id="inc-btn" onclick="increase2()"> + </button>
+    <br>
+    <br> 
+
+</div>
+<div class="shoe-price" id="shoe-price">
+<h2> Price: </h2>
+
+<h3 id="j1price"> $160</h3>
+
+<h3> $80</h3>
+
+<h3> $200</h3>
+
+</div>
+
+<div id="total_prices">
+<h2>Total Prices:</h2>
+
+<h3 id="j1tot"> $0 </h3>
+
+<h3 id="yzytot">$0</h3>
+
+<h3 id="j3tot">$0</h3>
+</div>
+<div id="final_prices">
+    <h2>Final Amount:</h2>
+    <br> 
+    <br>
+    <br> 
+    <h3 id="fTot" >$0</h3>    
+
+
+
+</div>
+<script src="shopping_cart.js"></script>
+
+    </body>
+</html>
