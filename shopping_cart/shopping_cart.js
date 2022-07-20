@@ -97,14 +97,3 @@ let final = totalPrice + totalPrice1 + totalPrice2
 return final
  }
  
- function get_rid_of(){
-     counter = 0
-    counter1 = 0
-    counter2= 0 
-    final_prices = 0
-    totalPrice = 0
-    totalPrice1 = 0
-     totalPrice2=0
-
-
- }
