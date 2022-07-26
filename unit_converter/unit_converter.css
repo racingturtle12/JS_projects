@@ -1,0 +1,149 @@
+#container{
+    background: #1F2937;
+    width: 550px;
+    height: 729px;
+    border-radius: 15px;
+    
+}
+
+
+ .rectangle1{
+    width:550;
+    height: 285px;
+    background: #6943FF;
+    border-radius: 10px;
+}
+ 
+#heading{
+ padding-left: 120px;
+ padding-right: 51px;
+ padding-top: 15px;
+ color: white;
+ font-family:Verdana, Geneva, Tahoma, sans-serif;
+ font-size: large;
+}
+.rectangle2{
+    width: 500px;
+    height: 108px;
+   background: #273549;
+   margin-left: 25px;
+   margin-right: 25px;
+   margin-top: 36px;
+   margin-bottom: 23.50px;
+   border-radius: 5px;
+}
+.rectangle3{
+    width: 500px;
+    height: 108px;
+   background: #273549;
+   margin-left: 25px;
+   margin-right: 25px;
+   border-radius: 5px;
+   margin-bottom: 23.50px;
+}
+
+.rectangle4{
+    width: 500px;
+    height: 108px;
+   background: #273549;
+   margin-right: 25px;
+   border-radius: 5px;
+   margin-bottom: 23.50px;}
+
+
+#num2c{
+box-sizing: border-box;
+width: 117px;
+height: 83px;
+border: 2px solid #B295FF;
+border-radius: 5px;
+margin-left: 210px;
+margin-right: 217px;
+margin-top: 30px ;
+margin-bottom:25px ;
+background-color: #6943FF;
+color: white;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-size: x-large;
+padding: 35px;
+
+}
+ #convert{
+background: #FFFFFF;
+width: 117px;
+height: 42px;
+margin-left: 205px;
+margin-top: 25px;
+margin-bottom: 34px;
+margin-right: 216px;
+border-radius: 8px;
+ }
+#length-box{
+color: #CCC1FF;
+padding-left: 120px;
+padding-right: 77px;
+padding-top: 20px;
+padding-bottom: 51px;
+font-size: larger;
+width: 346px;
+height:26px;
+
+ }
+ #volume-box{
+    color: #CCC1FF;
+    padding-left: 120px;
+    padding-right: 77px;
+    padding-top: 20px;
+    padding-bottom: 51px;
+    font-size: larger;
+    width: 346px;
+    height:26px;
+    
+     }
+#mass-box{
+        color: #CCC1FF;
+        padding-left: 100px;
+        padding-right: 77px;
+        margin-left: 20px;
+        margin-top: 36px;
+        padding-top: 20px;
+        padding-bottom: 51px;
+        font-size: larger;
+        width: 346px;
+        height:26px;
+     }
+
+
+
+
+.nNum{
+        color:#f0fff0;
+        display:inline;
+   
+     }
+#feet{
+    color: white;
+    display:inline;
+}
+#meters{
+    color: white;
+    display:inline;
+}
+#liters{
+    color: white;
+    display:inline;
+}
+
+#gallons{
+    color: white;
+    display:inline;
+}
+
+#kilos{
+    color: white;
+    display:inline;
+}
+#pounds{
+    color: white;
+    display:inline;
+}
